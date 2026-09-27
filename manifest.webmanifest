@@ -1,0 +1,9 @@
+{
+  "name": "RGCC Estadística Voleibol Masculino",
+  "short_name": "RGCC Masculino",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b2f6b",
+  "description": "Estadística de voleibol masculino RGCC"
+}
